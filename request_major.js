@@ -7,7 +7,7 @@
  */
 
 const axios = require('axios');
-
+const fs = require('fs');
 const qs = require('qs');
 const jsdom = require("jsdom");
 const {
@@ -135,8 +135,10 @@ async function buildcombinedJSON(term, dep) {
 
     if (!hasTable(pg1)) {
         console.log("No courses available");
-        return { data: [] };
-      }
+        return {
+            data: []
+        };
+    }
 
     let first_page = parse.parseHtml(pg1); // parse 
 
@@ -157,18 +159,31 @@ async function buildcombinedJSON(term, dep) {
     })
 
     console.log(res);
+    // // Specify the file path
+    // const filePath = 'example_obj.json';
 
+    // // Write JSON string to file
+    // fs.writeFile(filePath, JSON.stringify(res), 'utf8', function (err) {
+    //     if (err) {
+    //         console.log('An error occurred while writing the file:', err);
+    //     } else {
+    //         console.log('JSON object written to file successfully.');
+    //     }
+    // });
+
+    
     return {
         data: res
     };
 
 }
 
-buildcombinedJSON("WI23", "TDPF");
+
+buildcombinedJSON("FA23", "ECON")
+
 
 module.exports = {
     buildcombinedJSON: buildcombinedJSON,
     allpgs_req: allpgs_req,
     pg1_req: pg1_req
 }
-

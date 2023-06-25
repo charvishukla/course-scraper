@@ -1,0 +1,1520 @@
+[
+  {
+    "courseDep": "Economics",
+    "courseNum": "1",
+    "courseName": "Principles of Microeconomics",
+    "courseUnits": "4",
+    "sections": [
+      {
+        "instructionType": "LE",
+        "secID": "A00",
+        "day": "TuTh",
+        "fromTime": { "hour": 11, "minutes": 0, "ampm": "am" },
+        "toTime": { "hour": 12, "minutes": 20, "ampm": "pm" },
+        "building": "JEANN",
+        "room": "AUD",
+        "instructor": "Levkoff, Steven B."
+      },
+      {
+        "instructionType": "DI",
+        "secID": "A01",
+        "day": "M",
+        "fromTime": { "hour": 7, "minutes": 0, "ampm": "pm" },
+        "toTime": { "hour": 7, "minutes": 50, "ampm": "pm" },
+        "building": "MOS",
+        "room": "0204",
+        "instructor": "Levkoff, Steven B.",
+        "seatsLeft": 0,
+        "waitlistcount": 0,
+        "capacity": 25
+      },
+      {
+        "instructionType": "DI",
+        "secID": "A02",
+        "day": "W",
+        "fromTime": { "hour": 2, "minutes": 0, "ampm": "pm" },
+        "toTime": { "hour": 2, "minutes": 50, "ampm": "pm" },
+        "building": "PODEM",
+        "room": "1A18",
+        "instructor": "Levkoff, Steven B.",
+        "seatsLeft": 0,
+        "waitlistcount": 3,
+        "capacity": 25
+      },
+      {
+        "instructionType": "DI",
+        "secID": "A03",
+        "day": "F",
+        "fromTime": { "hour": 4, "minutes": 0, "ampm": "pm" },
+        "toTime": { "hour": 4, "minutes": 50, "ampm": "pm" },
+        "building": "PETER",
+        "room": "104",
+        "instructor": "Levkoff, Steven B.",
+        "seatsLeft": 0,
+        "waitlistcount": 0,
+        "capacity": 25
+      },
+      {
+        "instructionType": "DI",
+        "secID": "A04",
+        "day": "F",
+        "fromTime": { "hour": 5, "minutes": 0, "ampm": "pm" },
+        "toTime": { "hour": 5, "minutes": 50, "ampm": "pm" },
+        "building": "PETER",
+        "room": "104",
+        "instructor": "Levkoff, Steven B.",
+        "seatsLeft": 13,
+        "waitlistcount": 0,
+        "capacity": 25
+      },
+      {
+        "instructionType": "DI",
+        "secID": "A05",
+        "day": "F",
+        "fromTime": { "hour": 6, "minutes": 0, "ampm": "pm" },
+        "toTime": { "hour": 6, "minutes": 50, "ampm": "pm" },
+        "building": "DIB",
+        "room": "122",
+        "instructor": "Levkoff, Steven B.",
+        "seatsLeft": 42,
+        "waitlistcount": 0,
+        "capacity": 50
+      },
+      {
+        "instructionType": "DI",
+        "secID": "A06",
+        "day": "Th",
+        "fromTime": { "hour": 7, "minutes": 0, "ampm": "pm" },
+        "toTime": { "hour": 7, "minutes": 50, "ampm": "pm" },
+        "building": "DIB",
+        "room": "121",
+        "instructor": "Levkoff, Steven B.",
+        "seatsLeft": 41,
+        "waitlistcount": 0,
+        "capacity": 50
+      }
+    ]
+  },
+  {
+    "courseDep": "Economics",
+    "courseNum": "1",
+    "courseName": "Principles of Microeconomics",
+    "courseUnits": "4",
+    "sections": [
+      {
+        "instructionType": "LE",
+        "secID": "B00",
+        "day": "TuTh",
+        "fromTime": { "hour": 12, "minutes": 30, "ampm": "pm" },
+        "toTime": { "hour": 1, "minutes": 50, "ampm": "pm" },
+        "building": "JEANN",
+        "room": "AUD",
+        "instructor": "Levkoff, Steven B."
+      },
+      {
+        "instructionType": "DI",
+        "secID": "B01",
+        "day": "M",
+        "fromTime": { "hour": 5, "minutes": 0, "ampm": "pm" },
+        "toTime": { "hour": 5, "minutes": 50, "ampm": "pm" },
+        "building": "PODEM",
+        "room": "1A19",
+        "instructor": "Levkoff, Steven B.",
+        "seatsLeft": 0,
+        "waitlistcount": 0,
+        "capacity": 25
+      },
+      {
+        "instructionType": "DI",
+        "secID": "B02",
+        "day": "W",
+        "fromTime": { "hour": 4, "minutes": 0, "ampm": "pm" },
+        "toTime": { "hour": 4, "minutes": 50, "ampm": "pm" },
+        "building": "WLH",
+        "room": "2204",
+        "instructor": "Levkoff, Steven B.",
+        "seatsLeft": 0,
+        "waitlistcount": 0,
+        "capacity": 25
+      },
+      {
+        "instructionType": "DI",
+        "secID": "B03",
+        "day": "W",
+        "fromTime": { "hour": 5, "minutes": 0, "ampm": "pm" },
+        "toTime": { "hour": 5, "minutes": 50, "ampm": "pm" },
+        "building": "PODEM",
+        "room": "1A19",
+        "instructor": "Levkoff, Steven B.",
+        "seatsLeft": 8,
+        "waitlistcount": 0,
+        "capacity": 25
+      },
+      {
+        "instructionType": "DI",
+        "secID": "B04",
+        "day": "W",
+        "fromTime": { "hour": 6, "minutes": 0, "ampm": "pm" },
+        "toTime": { "hour": 6, "minutes": 50, "ampm": "pm" },
+        "building": "PODEM",
+        "room": "1A19",
+        "instructor": "Levkoff, Steven B.",
+        "seatsLeft": 22,
+        "waitlistcount": 0,
+        "capacity": 25
+      },
+      {
+        "instructionType": "DI",
+        "secID": "B05",
+        "day": "M",
+        "fromTime": { "hour": 6, "minutes": 0, "ampm": "pm" },
+        "toTime": { "hour": 6, "minutes": 50, "ampm": "pm" },
+        "building": "DIB",
+        "room": "122",
+        "instructor": "Levkoff, Steven B.",
+        "seatsLeft": 42,
+        "waitlistcount": 0,
+        "capacity": 50
+      },
+      {
+        "instructionType": "DI",
+        "secID": "B06",
+        "day": "M",
+        "fromTime": { "hour": 7, "minutes": 0, "ampm": "pm" },
+        "toTime": { "hour": 7, "minutes": 50, "ampm": "pm" },
+        "building": "DIB",
+        "room": "122",
+        "instructor": "Levkoff, Steven B.",
+        "seatsLeft": 45,
+        "waitlistcount": 0,
+        "capacity": 50
+      }
+    ]
+  },
+  {
+    "courseDep": "Economics",
+    "courseNum": "1",
+    "courseName": "Principles of Microeconomics",
+    "courseUnits": "4",
+    "sections": [
+      {
+        "instructionType": "LE",
+        "secID": "C00",
+        "day": "TuTh",
+        "fromTime": { "hour": 3, "minutes": 30, "ampm": "pm" },
+        "toTime": { "hour": 4, "minutes": 50, "ampm": "pm" },
+        "building": "GH",
+        "room": "242",
+        "instructor": "Staff"
+      },
+      {
+        "instructionType": "DI",
+        "secID": "C01",
+        "day": "W",
+        "fromTime": { "hour": 7, "minutes": 0, "ampm": "pm" },
+        "toTime": { "hour": 7, "minutes": 50, "ampm": "pm" },
+        "building": "PODEM",
+        "room": "1A19",
+        "instructor": "",
+        "seatsLeft": 21,
+        "waitlistcount": 0,
+        "capacity": 25
+      },
+      {
+        "instructionType": "DI",
+        "secID": "C02",
+        "day": "Th",
+        "fromTime": { "hour": 6, "minutes": 0, "ampm": "pm" },
+        "toTime": { "hour": 6, "minutes": 50, "ampm": "pm" },
+        "building": "PODEM",
+        "room": "1A19",
+        "instructor": "",
+        "seatsLeft": 14,
+        "waitlistcount": 0,
+        "capacity": 25
+      },
+      {
+        "instructionType": "DI",
+        "secID": "C03",
+        "day": "W",
+        "fromTime": { "hour": 8, "minutes": 0, "ampm": "pm" },
+        "toTime": { "hour": 8, "minutes": 50, "ampm": "pm" },
+        "building": "PODEM",
+        "room": "1A19",
+        "instructor": "",
+        "seatsLeft": 25,
+        "waitlistcount": 0,
+        "capacity": 25
+      },
+      {
+        "instructionType": "DI",
+        "secID": "C04",
+        "day": "F",
+        "fromTime": { "hour": 11, "minutes": 0, "ampm": "am" },
+        "toTime": { "hour": 11, "minutes": 50, "ampm": "am" },
+        "building": "PETER",
+        "room": "104",
+        "instructor": "",
+        "seatsLeft": 17,
+        "waitlistcount": 0,
+        "capacity": 25
+      },
+      {
+        "instructionType": "DI",
+        "secID": "C05",
+        "day": "F",
+        "fromTime": { "hour": 4, "minutes": 0, "ampm": "pm" },
+        "toTime": { "hour": 4, "minutes": 50, "ampm": "pm" },
+        "building": "DIB",
+        "room": "122",
+        "instructor": "",
+        "seatsLeft": 47,
+        "waitlistcount": 0,
+        "capacity": 50
+      }
+    ]
+  },
+  {
+    "courseDep": "Economics",
+    "courseNum": "2",
+    "courseName": "Market Imperfections &amp; Policy",
+    "courseUnits": "4",
+    "sections": [
+      {
+        "instructionType": "LE",
+        "secID": "A00",
+        "day": "TuTh",
+        "fromTime": { "hour": 12, "minutes": 30, "ampm": "pm" },
+        "toTime": { "hour": 1, "minutes": 50, "ampm": "pm" },
+        "building": "CENTR",
+        "room": "115",
+        "instructor": "Crane, Meredith Helen"
+      },
+      {
+        "instructionType": "DI",
+        "secID": "A01",
+        "day": "F",
+        "fromTime": { "hour": 3, "minutes": 0, "ampm": "pm" },
+        "toTime": { "hour": 3, "minutes": 50, "ampm": "pm" },
+        "building": "PCYNH",
+        "room": "122",
+        "instructor": "Crane, Meredith Helen",
+        "seatsLeft": 0,
+        "waitlistcount": 12,
+        "capacity": 25
+      },
+      {
+        "instructionType": "DI",
+        "secID": "A02",
+        "day": "F",
+        "fromTime": { "hour": 4, "minutes": 0, "ampm": "pm" },
+        "toTime": { "hour": 4, "minutes": 50, "ampm": "pm" },
+        "building": "PCYNH",
+        "room": "122",
+        "instructor": "Crane, Meredith Helen",
+        "seatsLeft": 0,
+        "waitlistcount": 11,
+        "capacity": 25
+      }
+    ]
+  },
+  {
+    "courseDep": "Economics",
+    "courseNum": "3",
+    "courseName": "Principles of Macroeconomics",
+    "courseUnits": "4",
+    "sections": [
+      {
+        "instructionType": "LE",
+        "secID": "A00",
+        "day": "TuTh",
+        "fromTime": { "hour": 2, "minutes": 0, "ampm": "pm" },
+        "toTime": { "hour": 3, "minutes": 20, "ampm": "pm" },
+        "building": "CENTR",
+        "room": "105",
+        "instructor": "Staff"
+      },
+      {
+        "instructionType": "DI",
+        "secID": "A01",
+        "day": "M",
+        "fromTime": { "hour": 7, "minutes": 0, "ampm": "pm" },
+        "toTime": { "hour": 7, "minutes": 50, "ampm": "pm" },
+        "building": "YORK",
+        "room": "4080A",
+        "instructor": "",
+        "seatsLeft": 0,
+        "waitlistcount": 18,
+        "capacity": 25
+      },
+      {
+        "instructionType": "DI",
+        "secID": "A02",
+        "day": "M",
+        "fromTime": { "hour": 8, "minutes": 0, "ampm": "pm" },
+        "toTime": { "hour": 8, "minutes": 50, "ampm": "pm" },
+        "building": "YORK",
+        "room": "4080A",
+        "instructor": "",
+        "seatsLeft": 0,
+        "waitlistcount": 17,
+        "capacity": 25
+      }
+    ]
+  },
+  {
+    "courseDep": "Economics",
+    "courseNum": "5",
+    "courseName": "Data Analytics/Social Sciences",
+    "courseUnits": "4",
+    "sections": [
+      {
+        "instructionType": "LE",
+        "secID": "A00",
+        "day": "MW",
+        "fromTime": { "hour": 6, "minutes": 0, "ampm": "pm" },
+        "toTime": { "hour": 6, "minutes": 50, "ampm": "pm" },
+        "building": "YORK",
+        "room": "4050A",
+        "instructor": "Staff"
+      },
+      {
+        "instructionType": "LA",
+        "secID": "A01",
+        "day": "F",
+        "fromTime": { "hour": 6, "minutes": 0, "ampm": "pm" },
+        "toTime": { "hour": 6, "minutes": 50, "ampm": "pm" },
+        "building": "YORK",
+        "room": "4050A",
+        "instructor": "",
+        "seatsLeft": 0,
+        "waitlistcount": 4,
+        "capacity": 0
+      }
+    ]
+  },
+  {
+    "courseDep": "Economics",
+    "courseNum": "5",
+    "courseName": "Data Analytics/Social Sciences",
+    "courseUnits": "4",
+    "sections": [
+      {
+        "instructionType": "LE",
+        "secID": "B00",
+        "day": "MW",
+        "fromTime": { "hour": 6, "minutes": 0, "ampm": "pm" },
+        "toTime": { "hour": 6, "minutes": 50, "ampm": "pm" },
+        "building": "YORK",
+        "room": "4050B",
+        "instructor": "Staff"
+      },
+      {
+        "instructionType": "LA",
+        "secID": "B01",
+        "day": "F",
+        "fromTime": { "hour": 6, "minutes": 0, "ampm": "pm" },
+        "toTime": { "hour": 6, "minutes": 50, "ampm": "pm" },
+        "building": "YORK",
+        "room": "4050B",
+        "instructor": "",
+        "seatsLeft": 0,
+        "waitlistcount": 3,
+        "capacity": 0
+      }
+    ]
+  },
+  {
+    "courseDep": "Economics",
+    "courseNum": "5",
+    "courseName": "Data Analytics/Social Sciences",
+    "courseUnits": "4",
+    "sections": [
+      {
+        "instructionType": "LE",
+        "secID": "C00",
+        "day": "MW",
+        "fromTime": { "hour": 6, "minutes": 0, "ampm": "pm" },
+        "toTime": { "hour": 6, "minutes": 50, "ampm": "pm" },
+        "building": "YORK",
+        "room": "3060",
+        "instructor": "Staff"
+      },
+      {
+        "instructionType": "LA",
+        "secID": "C01",
+        "day": "F",
+        "fromTime": { "hour": 6, "minutes": 0, "ampm": "pm" },
+        "toTime": { "hour": 6, "minutes": 50, "ampm": "pm" },
+        "building": "YORK",
+        "room": "3060",
+        "instructor": "",
+        "seatsLeft": 0,
+        "waitlistcount": 1,
+        "capacity": 0
+      }
+    ]
+  },
+  {
+    "courseDep": "Economics",
+    "courseNum": "5",
+    "courseName": "Data Analytics/Social Sciences",
+    "courseUnits": "4",
+    "sections": [
+      {
+        "instructionType": "LE",
+        "secID": "D00",
+        "day": "MW",
+        "fromTime": { "hour": 6, "minutes": 0, "ampm": "pm" },
+        "toTime": { "hour": 6, "minutes": 50, "ampm": "pm" },
+        "building": "YORK",
+        "room": "3070",
+        "instructor": "Staff"
+      },
+      {
+        "instructionType": "LA",
+        "secID": "D01",
+        "day": "F",
+        "fromTime": { "hour": 6, "minutes": 0, "ampm": "pm" },
+        "toTime": { "hour": 6, "minutes": 50, "ampm": "pm" },
+        "building": "YORK",
+        "room": "3070",
+        "instructor": "",
+        "seatsLeft": 0,
+        "waitlistcount": 3,
+        "capacity": 0
+      }
+    ]
+  },
+  {
+    "courseDep": "Economics",
+    "courseNum": "5",
+    "courseName": "Data Analytics/Social Sciences",
+    "courseUnits": "4",
+    "sections": [
+      {
+        "instructionType": "LE",
+        "secID": "E00",
+        "day": "MW",
+        "fromTime": { "hour": 6, "minutes": 0, "ampm": "pm" },
+        "toTime": { "hour": 6, "minutes": 50, "ampm": "pm" },
+        "building": "SOLIS",
+        "room": "104",
+        "instructor": "Staff"
+      },
+      {
+        "instructionType": "LA",
+        "secID": "E01",
+        "day": "F",
+        "fromTime": { "hour": 6, "minutes": 0, "ampm": "pm" },
+        "toTime": { "hour": 6, "minutes": 50, "ampm": "pm" },
+        "building": "SOLIS",
+        "room": "104",
+        "instructor": "",
+        "seatsLeft": 0,
+        "waitlistcount": 2,
+        "capacity": 0
+      }
+    ]
+  },
+  {
+    "courseDep": "Economics",
+    "courseNum": "87",
+    "courseName": "Freshman Seminar",
+    "courseUnits": "1",
+    "sections": [
+      {
+        "instructionType": "SE",
+        "secID": "A00",
+        "day": "M",
+        "fromTime": { "hour": 11, "minutes": 0, "ampm": "am" },
+        "toTime": { "hour": 11, "minutes": 50, "ampm": "am" },
+        "building": "SSB",
+        "room": "506",
+        "instructor": "Bharadwaj, Prashant",
+        "seatsLeft": 19,
+        "waitlistcount": 0,
+        "capacity": 20
+      }
+    ]
+  },
+  {
+    "courseDep": "Economics",
+    "courseNum": "100A",
+    "courseName": "Microeconomics A",
+    "courseUnits": "4",
+    "sections": [
+      {
+        "instructionType": "LE",
+        "secID": "A00",
+        "day": "MWF",
+        "fromTime": { "hour": 9, "minutes": 0, "ampm": "am" },
+        "toTime": { "hour": 9, "minutes": 50, "ampm": "am" },
+        "building": "CTL",
+        "room": "0125",
+        "instructor": "Newhouse, Herbert S"
+      },
+      {
+        "instructionType": "DI",
+        "secID": "A01",
+        "day": "M",
+        "fromTime": { "hour": 5, "minutes": 0, "ampm": "pm" },
+        "toTime": { "hour": 5, "minutes": 50, "ampm": "pm" },
+        "building": "MANDE",
+        "room": "B-150",
+        "instructor": "Newhouse, Herbert S",
+        "seatsLeft": 0,
+        "waitlistcount": 7,
+        "capacity": 30
+      },
+      {
+        "instructionType": "DI",
+        "secID": "A02",
+        "day": "M",
+        "fromTime": { "hour": 6, "minutes": 0, "ampm": "pm" },
+        "toTime": { "hour": 6, "minutes": 50, "ampm": "pm" },
+        "building": "MANDE",
+        "room": "B-150",
+        "instructor": "Newhouse, Herbert S",
+        "seatsLeft": 0,
+        "waitlistcount": 6,
+        "capacity": 30
+      },
+      {
+        "instructionType": "DI",
+        "secID": "A03",
+        "day": "M",
+        "fromTime": { "hour": 7, "minutes": 0, "ampm": "pm" },
+        "toTime": { "hour": 7, "minutes": 50, "ampm": "pm" },
+        "building": "MANDE",
+        "room": "B-150",
+        "instructor": "Newhouse, Herbert S",
+        "seatsLeft": 0,
+        "waitlistcount": 6,
+        "capacity": 30
+      },
+      {
+        "instructionType": "DI",
+        "secID": "A04",
+        "day": "F",
+        "fromTime": { "hour": 4, "minutes": 0, "ampm": "pm" },
+        "toTime": { "hour": 4, "minutes": 50, "ampm": "pm" },
+        "building": "WLH",
+        "room": "2205",
+        "instructor": "Newhouse, Herbert S",
+        "seatsLeft": 0,
+        "waitlistcount": 6,
+        "capacity": 30
+      },
+      {
+        "instructionType": "DI",
+        "secID": "A05",
+        "day": "F",
+        "fromTime": { "hour": 5, "minutes": 0, "ampm": "pm" },
+        "toTime": { "hour": 5, "minutes": 50, "ampm": "pm" },
+        "building": "WLH",
+        "room": "2205",
+        "instructor": "Newhouse, Herbert S",
+        "seatsLeft": 0,
+        "waitlistcount": 6,
+        "capacity": 30
+      }
+    ]
+  },
+  {
+    "courseDep": "Economics",
+    "courseNum": "100A",
+    "courseName": "Microeconomics A",
+    "courseUnits": "4",
+    "sections": [
+      {
+        "instructionType": "LE",
+        "secID": "B00",
+        "day": "MWF",
+        "fromTime": { "hour": 10, "minutes": 0, "ampm": "am" },
+        "toTime": { "hour": 10, "minutes": 50, "ampm": "am" },
+        "building": "CTL",
+        "room": "0125",
+        "instructor": "Newhouse, Herbert S"
+      },
+      {
+        "instructionType": "DI",
+        "secID": "B01",
+        "day": "Th",
+        "fromTime": { "hour": 5, "minutes": 0, "ampm": "pm" },
+        "toTime": { "hour": 5, "minutes": 50, "ampm": "pm" },
+        "building": "WLH",
+        "room": "2205",
+        "instructor": "Newhouse, Herbert S",
+        "seatsLeft": 0,
+        "waitlistcount": 10,
+        "capacity": 30
+      },
+      {
+        "instructionType": "DI",
+        "secID": "B02",
+        "day": "Tu",
+        "fromTime": { "hour": 5, "minutes": 0, "ampm": "pm" },
+        "toTime": { "hour": 5, "minutes": 50, "ampm": "pm" },
+        "building": "PETER",
+        "room": "102",
+        "instructor": "Newhouse, Herbert S",
+        "seatsLeft": 0,
+        "waitlistcount": 7,
+        "capacity": 30
+      },
+      {
+        "instructionType": "DI",
+        "secID": "B03",
+        "day": "Tu",
+        "fromTime": { "hour": 6, "minutes": 0, "ampm": "pm" },
+        "toTime": { "hour": 6, "minutes": 50, "ampm": "pm" },
+        "building": "PETER",
+        "room": "102",
+        "instructor": "Newhouse, Herbert S",
+        "seatsLeft": 0,
+        "waitlistcount": 7,
+        "capacity": 30
+      },
+      {
+        "instructionType": "DI",
+        "secID": "B04",
+        "day": "Tu",
+        "fromTime": { "hour": 7, "minutes": 0, "ampm": "pm" },
+        "toTime": { "hour": 7, "minutes": 50, "ampm": "pm" },
+        "building": "PETER",
+        "room": "102",
+        "instructor": "Newhouse, Herbert S",
+        "seatsLeft": 0,
+        "waitlistcount": 7,
+        "capacity": 30
+      },
+      {
+        "instructionType": "DI",
+        "secID": "B05",
+        "day": "Tu",
+        "fromTime": { "hour": 8, "minutes": 0, "ampm": "pm" },
+        "toTime": { "hour": 8, "minutes": 50, "ampm": "pm" },
+        "building": "CENTR",
+        "room": "222",
+        "instructor": "Newhouse, Herbert S",
+        "seatsLeft": 0,
+        "waitlistcount": 6,
+        "capacity": 30
+      }
+    ]
+  },
+  {
+    "courseDep": "Economics",
+    "courseNum": "100B",
+    "courseName": "Microeconomics B",
+    "courseUnits": "4",
+    "sections": [
+      {
+        "instructionType": "LE",
+        "secID": "A00",
+        "day": "MWF",
+        "fromTime": { "hour": 11, "minutes": 0, "ampm": "am" },
+        "toTime": { "hour": 11, "minutes": 50, "ampm": "am" },
+        "building": "CENTR",
+        "room": "113",
+        "instructor": "Crane, Meredith Helen"
+      },
+      {
+        "instructionType": "DI",
+        "secID": "A01",
+        "day": "W",
+        "fromTime": { "hour": 4, "minutes": 0, "ampm": "pm" },
+        "toTime": { "hour": 4, "minutes": 50, "ampm": "pm" },
+        "building": "YORK",
+        "room": "4080A",
+        "instructor": "Crane, Meredith Helen",
+        "seatsLeft": 0,
+        "waitlistcount": 15,
+        "capacity": 25
+      },
+      {
+        "instructionType": "DI",
+        "secID": "A02",
+        "day": "W",
+        "fromTime": { "hour": 3, "minutes": 0, "ampm": "pm" },
+        "toTime": { "hour": 3, "minutes": 50, "ampm": "pm" },
+        "building": "YORK",
+        "room": "4080A",
+        "instructor": "Crane, Meredith Helen",
+        "seatsLeft": 0,
+        "waitlistcount": 15,
+        "capacity": 25
+      },
+      {
+        "instructionType": "DI",
+        "secID": "A03",
+        "day": "W",
+        "fromTime": { "hour": 6, "minutes": 0, "ampm": "pm" },
+        "toTime": { "hour": 6, "minutes": 50, "ampm": "pm" },
+        "building": "DIB",
+        "room": "122",
+        "instructor": "Crane, Meredith Helen",
+        "seatsLeft": 0,
+        "waitlistcount": 15,
+        "capacity": 25
+      }
+    ]
+  },
+  {
+    "courseDep": "Economics",
+    "courseNum": "100B",
+    "courseName": "Microeconomics B",
+    "courseUnits": "4",
+    "sections": [
+      {
+        "instructionType": "LE",
+        "secID": "B00",
+        "day": "MWF",
+        "fromTime": { "hour": 12, "minutes": 0, "ampm": "pm" },
+        "toTime": { "hour": 12, "minutes": 50, "ampm": "pm" },
+        "building": "CENTR",
+        "room": "113",
+        "instructor": "Crane, Meredith Helen"
+      },
+      {
+        "instructionType": "DI",
+        "secID": "B01",
+        "day": "M",
+        "fromTime": { "hour": 4, "minutes": 0, "ampm": "pm" },
+        "toTime": { "hour": 4, "minutes": 50, "ampm": "pm" },
+        "building": "YORK",
+        "room": "4080A",
+        "instructor": "Crane, Meredith Helen",
+        "seatsLeft": 0,
+        "waitlistcount": 15,
+        "capacity": 25
+      },
+      {
+        "instructionType": "DI",
+        "secID": "B02",
+        "day": "M",
+        "fromTime": { "hour": 5, "minutes": 0, "ampm": "pm" },
+        "toTime": { "hour": 5, "minutes": 50, "ampm": "pm" },
+        "building": "YORK",
+        "room": "4080A",
+        "instructor": "Crane, Meredith Helen",
+        "seatsLeft": 0,
+        "waitlistcount": 14,
+        "capacity": 25
+      },
+      {
+        "instructionType": "DI",
+        "secID": "B03",
+        "day": "M",
+        "fromTime": { "hour": 6, "minutes": 0, "ampm": "pm" },
+        "toTime": { "hour": 6, "minutes": 50, "ampm": "pm" },
+        "building": "YORK",
+        "room": "4080A",
+        "instructor": "Crane, Meredith Helen",
+        "seatsLeft": 0,
+        "waitlistcount": 14,
+        "capacity": 25
+      }
+    ]
+  },
+  {
+    "courseDep": "Economics",
+    "courseNum": "100C",
+    "courseName": "Microeconomics C",
+    "courseUnits": "4",
+    "sections": []
+  },
+  {
+    "courseDep": "Economics",
+    "courseNum": "110A",
+    "courseName": "Long Run Macroeconomics",
+    "courseUnits": "4",
+    "sections": [
+      {
+        "instructionType": "LE",
+        "secID": "A00",
+        "day": "TuTh",
+        "fromTime": { "hour": 12, "minutes": 30, "ampm": "pm" },
+        "toTime": { "hour": 1, "minutes": 50, "ampm": "pm" },
+        "building": "HSS",
+        "room": "1330",
+        "instructor": "Alon, Titan Michael"
+      },
+      {
+        "instructionType": "DI",
+        "secID": "A01",
+        "day": "W",
+        "fromTime": { "hour": 6, "minutes": 0, "ampm": "pm" },
+        "toTime": { "hour": 6, "minutes": 50, "ampm": "pm" },
+        "building": "CSB",
+        "room": "005",
+        "instructor": "Alon, Titan Michael",
+        "seatsLeft": 0,
+        "waitlistcount": 18,
+        "capacity": 25
+      },
+      {
+        "instructionType": "DI",
+        "secID": "A02",
+        "day": "W",
+        "fromTime": { "hour": 7, "minutes": 0, "ampm": "pm" },
+        "toTime": { "hour": 7, "minutes": 50, "ampm": "pm" },
+        "building": "CSB",
+        "room": "005",
+        "instructor": "Alon, Titan Michael",
+        "seatsLeft": 0,
+        "waitlistcount": 17,
+        "capacity": 25
+      }
+    ]
+  },
+  {
+    "courseDep": "Economics",
+    "courseNum": "110B",
+    "courseName": "Short Run Macroeconomics",
+    "courseUnits": "4",
+    "sections": [
+      {
+        "instructionType": "LE",
+        "secID": "A00",
+        "day": "TuTh",
+        "fromTime": { "hour": 9, "minutes": 30, "ampm": "am" },
+        "toTime": { "hour": 10, "minutes": 50, "ampm": "am" },
+        "building": "SOLIS",
+        "room": "107",
+        "instructor": "Trottner, Fabian Gunter We"
+      },
+      {
+        "instructionType": "DI",
+        "secID": "A01",
+        "day": "F",
+        "fromTime": { "hour": 2, "minutes": 0, "ampm": "pm" },
+        "toTime": { "hour": 2, "minutes": 50, "ampm": "pm" },
+        "building": "PETER",
+        "room": "104",
+        "instructor": "Trottner, Fabian Gunter We",
+        "seatsLeft": 0,
+        "waitlistcount": 19,
+        "capacity": 25
+      },
+      {
+        "instructionType": "DI",
+        "secID": "A02",
+        "day": "F",
+        "fromTime": { "hour": 6, "minutes": 0, "ampm": "pm" },
+        "toTime": { "hour": 6, "minutes": 50, "ampm": "pm" },
+        "building": "WLH",
+        "room": "2204",
+        "instructor": "Trottner, Fabian Gunter We",
+        "seatsLeft": 0,
+        "waitlistcount": 19,
+        "capacity": 25
+      },
+      {
+        "instructionType": "DI",
+        "secID": "A03",
+        "day": "F",
+        "fromTime": { "hour": 4, "minutes": 0, "ampm": "pm" },
+        "toTime": { "hour": 4, "minutes": 50, "ampm": "pm" },
+        "building": "WLH",
+        "room": "2204",
+        "instructor": "Trottner, Fabian Gunter We",
+        "seatsLeft": 0,
+        "waitlistcount": 22,
+        "capacity": 25
+      },
+      {
+        "instructionType": "DI",
+        "secID": "A04",
+        "day": "F",
+        "fromTime": { "hour": 5, "minutes": 0, "ampm": "pm" },
+        "toTime": { "hour": 5, "minutes": 50, "ampm": "pm" },
+        "building": "WLH",
+        "room": "2204",
+        "instructor": "Trottner, Fabian Gunter We",
+        "seatsLeft": 0,
+        "waitlistcount": 20,
+        "capacity": 25
+      }
+    ]
+  },
+  {
+    "courseDep": "Economics",
+    "courseNum": "110B",
+    "courseName": "Short Run Macroeconomics",
+    "courseUnits": "4",
+    "sections": [
+      {
+        "instructionType": "LE",
+        "secID": "B00",
+        "day": "TuTh",
+        "fromTime": { "hour": 11, "minutes": 0, "ampm": "am" },
+        "toTime": { "hour": 12, "minutes": 20, "ampm": "pm" },
+        "building": "SOLIS",
+        "room": "104",
+        "instructor": "Trottner, Fabian Gunter We"
+      },
+      {
+        "instructionType": "DI",
+        "secID": "B01",
+        "day": "M",
+        "fromTime": { "hour": 4, "minutes": 0, "ampm": "pm" },
+        "toTime": { "hour": 4, "minutes": 50, "ampm": "pm" },
+        "building": "WLH",
+        "room": "2207",
+        "instructor": "Trottner, Fabian Gunter We",
+        "seatsLeft": 0,
+        "waitlistcount": 32,
+        "capacity": 25
+      },
+      {
+        "instructionType": "DI",
+        "secID": "B02",
+        "day": "F",
+        "fromTime": { "hour": 11, "minutes": 0, "ampm": "am" },
+        "toTime": { "hour": 11, "minutes": 50, "ampm": "am" },
+        "building": "DIB",
+        "room": "122",
+        "instructor": "Trottner, Fabian Gunter We",
+        "seatsLeft": 0,
+        "waitlistcount": 28,
+        "capacity": 25
+      }
+    ]
+  },
+  {
+    "courseDep": "Economics",
+    "courseNum": "110BH",
+    "courseName": "Honors Macroeconomics B",
+    "courseUnits": "1",
+    "sections": [
+      {
+        "instructionType": "LE",
+        "secID": "A00",
+        "day": "TuTh",
+        "fromTime": { "hour": 5, "minutes": 0, "ampm": "pm" },
+        "toTime": { "hour": 6, "minutes": 20, "ampm": "pm" },
+        "building": "MANDE",
+        "room": "B-152",
+        "instructor": "Trottner, Fabian Gunter We"
+      }
+    ]
+  },
+  {
+    "courseDep": "Economics",
+    "courseNum": "113",
+    "courseName": "Mathematical Economics",
+    "courseUnits": "4",
+    "sections": [
+      {
+        "instructionType": "LE",
+        "secID": "A00",
+        "day": "TuTh",
+        "fromTime": { "hour": 2, "minutes": 0, "ampm": "pm" },
+        "toTime": { "hour": 3, "minutes": 20, "ampm": "pm" },
+        "building": "HSS",
+        "room": "1128A",
+        "instructor": "Toda, Alexis Akira"
+      }
+    ]
+  },
+  {
+    "courseDep": "Economics",
+    "courseNum": "120A",
+    "courseName": "Econometrics A",
+    "courseUnits": "4",
+    "sections": [
+      {
+        "instructionType": "LE",
+        "secID": "A00",
+        "day": "MWF",
+        "fromTime": { "hour": 3, "minutes": 0, "ampm": "pm" },
+        "toTime": { "hour": 3, "minutes": 50, "ampm": "pm" },
+        "building": "SOLIS",
+        "room": "104",
+        "instructor": "Staff"
+      },
+      {
+        "instructionType": "DI",
+        "secID": "A01",
+        "day": "M",
+        "fromTime": { "hour": 5, "minutes": 0, "ampm": "pm" },
+        "toTime": { "hour": 5, "minutes": 50, "ampm": "pm" },
+        "building": "RWAC",
+        "room": "0121",
+        "instructor": "",
+        "seatsLeft": 0,
+        "waitlistcount": 14,
+        "capacity": 35
+      },
+      {
+        "instructionType": "DI",
+        "secID": "A02",
+        "day": "M",
+        "fromTime": { "hour": 6, "minutes": 0, "ampm": "pm" },
+        "toTime": { "hour": 6, "minutes": 50, "ampm": "pm" },
+        "building": "RWAC",
+        "room": "0121",
+        "instructor": "",
+        "seatsLeft": 0,
+        "waitlistcount": 12,
+        "capacity": 35
+      }
+    ]
+  },
+  {
+    "courseDep": "Economics",
+    "courseNum": "120A",
+    "courseName": "Econometrics A",
+    "courseUnits": "4",
+    "sections": [
+      {
+        "instructionType": "LE",
+        "secID": "B00",
+        "day": "MWF",
+        "fromTime": { "hour": 2, "minutes": 0, "ampm": "pm" },
+        "toTime": { "hour": 2, "minutes": 50, "ampm": "pm" },
+        "building": "SOLIS",
+        "room": "104",
+        "instructor": "Staff"
+      },
+      {
+        "instructionType": "DI",
+        "secID": "B01",
+        "day": "W",
+        "fromTime": { "hour": 7, "minutes": 0, "ampm": "pm" },
+        "toTime": { "hour": 7, "minutes": 50, "ampm": "pm" },
+        "building": "RWAC",
+        "room": "0121",
+        "instructor": "",
+        "seatsLeft": 0,
+        "waitlistcount": 12,
+        "capacity": 35
+      },
+      {
+        "instructionType": "DI",
+        "secID": "B02",
+        "day": "W",
+        "fromTime": { "hour": 8, "minutes": 0, "ampm": "pm" },
+        "toTime": { "hour": 8, "minutes": 50, "ampm": "pm" },
+        "building": "RWAC",
+        "room": "0121",
+        "instructor": "",
+        "seatsLeft": 0,
+        "waitlistcount": 9,
+        "capacity": 35
+      }
+    ]
+  },
+  {
+    "courseDep": "Economics",
+    "courseNum": "120A",
+    "courseName": "Econometrics A",
+    "courseUnits": "4",
+    "sections": [
+      {
+        "instructionType": "LE",
+        "secID": "C00",
+        "day": "MW",
+        "fromTime": { "hour": 5, "minutes": 0, "ampm": "pm" },
+        "toTime": { "hour": 6, "minutes": 20, "ampm": "pm" },
+        "building": "PETER",
+        "room": "103",
+        "instructor": "Staff"
+      },
+      {
+        "instructionType": "DI",
+        "secID": "C01",
+        "day": "F",
+        "fromTime": { "hour": 3, "minutes": 0, "ampm": "pm" },
+        "toTime": { "hour": 3, "minutes": 50, "ampm": "pm" },
+        "building": "WLH",
+        "room": "2205",
+        "instructor": "",
+        "seatsLeft": 0,
+        "waitlistcount": 9,
+        "capacity": 30
+      }
+    ]
+  },
+  {
+    "courseDep": "Economics",
+    "courseNum": "120B",
+    "courseName": "Econometrics B",
+    "courseUnits": "4",
+    "sections": [
+      {
+        "instructionType": "LE",
+        "secID": "A00",
+        "day": "MWF",
+        "fromTime": { "hour": 11, "minutes": 0, "ampm": "am" },
+        "toTime": { "hour": 11, "minutes": 50, "ampm": "am" },
+        "building": "MANDE",
+        "room": "B-210",
+        "instructor": "Candido, Maria Teresa"
+      },
+      {
+        "instructionType": "DI",
+        "secID": "A01",
+        "day": "M",
+        "fromTime": { "hour": 5, "minutes": 0, "ampm": "pm" },
+        "toTime": { "hour": 5, "minutes": 50, "ampm": "pm" },
+        "building": "CSB",
+        "room": "004",
+        "instructor": "Candido, Maria Teresa",
+        "seatsLeft": 0,
+        "waitlistcount": 4,
+        "capacity": 50
+      },
+      {
+        "instructionType": "DI",
+        "secID": "A02",
+        "day": "M",
+        "fromTime": { "hour": 6, "minutes": 0, "ampm": "pm" },
+        "toTime": { "hour": 6, "minutes": 50, "ampm": "pm" },
+        "building": "CSB",
+        "room": "004",
+        "instructor": "Candido, Maria Teresa",
+        "seatsLeft": 0,
+        "waitlistcount": 1,
+        "capacity": 50
+      },
+      {
+        "instructionType": "DI",
+        "secID": "A03",
+        "day": "M",
+        "fromTime": { "hour": 7, "minutes": 0, "ampm": "pm" },
+        "toTime": { "hour": 7, "minutes": 50, "ampm": "pm" },
+        "building": "CSB",
+        "room": "004",
+        "instructor": "Candido, Maria Teresa",
+        "seatsLeft": 0,
+        "waitlistcount": 1,
+        "capacity": 50
+      }
+    ]
+  },
+  {
+    "courseDep": "Economics",
+    "courseNum": "120B",
+    "courseName": "Econometrics B",
+    "courseUnits": "4",
+    "sections": [
+      {
+        "instructionType": "LE",
+        "secID": "B00",
+        "day": "MWF",
+        "fromTime": { "hour": 12, "minutes": 0, "ampm": "pm" },
+        "toTime": { "hour": 12, "minutes": 50, "ampm": "pm" },
+        "building": "MANDE",
+        "room": "B-210",
+        "instructor": "Candido, Maria Teresa"
+      },
+      {
+        "instructionType": "DI",
+        "secID": "B01",
+        "day": "Tu",
+        "fromTime": { "hour": 8, "minutes": 0, "ampm": "pm" },
+        "toTime": { "hour": 8, "minutes": 50, "ampm": "pm" },
+        "building": "RWAC",
+        "room": "0103",
+        "instructor": "Candido, Maria Teresa",
+        "seatsLeft": 0,
+        "waitlistcount": 3,
+        "capacity": 50
+      },
+      {
+        "instructionType": "DI",
+        "secID": "B02",
+        "day": "Tu",
+        "fromTime": { "hour": 6, "minutes": 0, "ampm": "pm" },
+        "toTime": { "hour": 6, "minutes": 50, "ampm": "pm" },
+        "building": "RWAC",
+        "room": "0103",
+        "instructor": "Candido, Maria Teresa",
+        "seatsLeft": 0,
+        "waitlistcount": 2,
+        "capacity": 50
+      },
+      {
+        "instructionType": "DI",
+        "secID": "B03",
+        "day": "Tu",
+        "fromTime": { "hour": 7, "minutes": 0, "ampm": "pm" },
+        "toTime": { "hour": 7, "minutes": 50, "ampm": "pm" },
+        "building": "RWAC",
+        "room": "0103",
+        "instructor": "Candido, Maria Teresa",
+        "seatsLeft": 0,
+        "waitlistcount": 2,
+        "capacity": 50
+      }
+    ]
+  },
+  {
+    "courseDep": "Economics",
+    "courseNum": "120C",
+    "courseName": "Econometrics C",
+    "courseUnits": "4",
+    "sections": [
+      {
+        "instructionType": "LE",
+        "secID": "A00",
+        "day": "MWF",
+        "fromTime": { "hour": 2, "minutes": 0, "ampm": "pm" },
+        "toTime": { "hour": 2, "minutes": 50, "ampm": "pm" },
+        "building": "YORK",
+        "room": "2622",
+        "instructor": "Candido, Maria Teresa"
+      },
+      {
+        "instructionType": "DI",
+        "secID": "A01",
+        "day": "M",
+        "fromTime": { "hour": 3, "minutes": 0, "ampm": "pm" },
+        "toTime": { "hour": 3, "minutes": 50, "ampm": "pm" },
+        "building": "CENTR",
+        "room": "222",
+        "instructor": "Candido, Maria Teresa",
+        "seatsLeft": 3,
+        "waitlistcount": 0,
+        "capacity": 64
+      },
+      {
+        "instructionType": "DI",
+        "secID": "A02",
+        "day": "M",
+        "fromTime": { "hour": 4, "minutes": 0, "ampm": "pm" },
+        "toTime": { "hour": 4, "minutes": 50, "ampm": "pm" },
+        "building": "CENTR",
+        "room": "222",
+        "instructor": "Candido, Maria Teresa",
+        "seatsLeft": 0,
+        "waitlistcount": 0,
+        "capacity": 64
+      },
+      {
+        "instructionType": "DI",
+        "secID": "A03",
+        "day": "W",
+        "fromTime": { "hour": 8, "minutes": 0, "ampm": "pm" },
+        "toTime": { "hour": 8, "minutes": 50, "ampm": "pm" },
+        "building": "MANDE",
+        "room": "B-150",
+        "instructor": "Candido, Maria Teresa",
+        "seatsLeft": 14,
+        "waitlistcount": 0,
+        "capacity": 64
+      }
+    ]
+  },
+  {
+    "courseDep": "Economics",
+    "courseNum": "121",
+    "courseName": "Applied Econometrics &amp; Data",
+    "courseUnits": "4",
+    "sections": [
+      {
+        "instructionType": "LE",
+        "secID": "A00",
+        "day": "TuTh",
+        "fromTime": { "hour": 9, "minutes": 30, "ampm": "am" },
+        "toTime": { "hour": 10, "minutes": 50, "ampm": "am" },
+        "building": "WLH",
+        "room": "2112",
+        "instructor": "Vogl, Tom Saul"
+      }
+    ]
+  },
+  {
+    "courseDep": "Economics",
+    "courseNum": "121",
+    "courseName": "Applied Econometrics &amp; Data",
+    "courseUnits": "4",
+    "sections": [
+      {
+        "instructionType": "LE",
+        "secID": "B00",
+        "day": "TuTh",
+        "fromTime": { "hour": 11, "minutes": 0, "ampm": "am" },
+        "toTime": { "hour": 12, "minutes": 20, "ampm": "pm" },
+        "building": "WLH",
+        "room": "2112",
+        "instructor": "Vogl, Tom Saul"
+      }
+    ]
+  },
+  {
+    "courseDep": "Economics",
+    "courseNum": "130",
+    "courseName": "Public Policy",
+    "courseUnits": "4",
+    "sections": [
+      {
+        "instructionType": "LE",
+        "secID": "A00",
+        "day": "M",
+        "fromTime": { "hour": 5, "minutes": 0, "ampm": "pm" },
+        "toTime": { "hour": 7, "minutes": 50, "ampm": "pm" },
+        "building": "CENTR",
+        "room": "109",
+        "instructor": "Tang, Yuan Emily"
+      }
+    ]
+  },
+  {
+    "courseDep": "Economics",
+    "courseNum": "131",
+    "courseName": "Economics of the Environment",
+    "courseUnits": "4",
+    "sections": [
+      {
+        "instructionType": "LE",
+        "secID": "A00",
+        "day": "TuTh",
+        "fromTime": { "hour": 12, "minutes": 30, "ampm": "pm" },
+        "toTime": { "hour": 1, "minutes": 50, "ampm": "pm" },
+        "building": "PETER",
+        "room": "110",
+        "instructor": "Jacobsen, Mark"
+      }
+    ]
+  },
+  {
+    "courseDep": "Economics",
+    "courseNum": "132",
+    "courseName": "Energy Economics",
+    "courseUnits": "4",
+    "sections": [
+      {
+        "instructionType": "LE",
+        "secID": "A00",
+        "day": "Tu",
+        "fromTime": { "hour": 5, "minutes": 0, "ampm": "pm" },
+        "toTime": { "hour": 7, "minutes": 50, "ampm": "pm" },
+        "building": "YORK",
+        "room": "4080A",
+        "instructor": "Carson, Richard T"
+      }
+    ]
+  },
+  {
+    "courseDep": "Economics",
+    "courseNum": "132",
+    "courseName": "Energy Economics",
+    "courseUnits": "4",
+    "sections": [
+      {
+        "instructionType": "LE",
+        "secID": "B00",
+        "day": "Th",
+        "fromTime": { "hour": 5, "minutes": 0, "ampm": "pm" },
+        "toTime": { "hour": 7, "minutes": 50, "ampm": "pm" },
+        "building": "YORK",
+        "room": "4080A",
+        "instructor": "Carson, Richard T"
+      }
+    ]
+  },
+  {
+    "courseDep": "Economics",
+    "courseNum": "140",
+    "courseName": "Economics of Health Producers",
+    "courseUnits": "4",
+    "sections": [
+      {
+        "instructionType": "LE",
+        "secID": "A00",
+        "day": "TuTh",
+        "fromTime": { "hour": 9, "minutes": 30, "ampm": "am" },
+        "toTime": { "hour": 10, "minutes": 50, "ampm": "am" },
+        "building": "PODEM",
+        "room": "1A23",
+        "instructor": "Clemens, Jeffrey"
+      }
+    ]
+  },
+  {
+    "courseDep": "Economics",
+    "courseNum": "152",
+    "courseName": "Public Economics:ExpenditureII",
+    "courseUnits": "4",
+    "sections": [
+      {
+        "instructionType": "LE",
+        "secID": "A00",
+        "day": "Tu",
+        "fromTime": { "hour": 5, "minutes": 0, "ampm": "pm" },
+        "toTime": { "hour": 7, "minutes": 50, "ampm": "pm" },
+        "building": "CSB",
+        "room": "005",
+        "instructor": "Fadlon, Yizhak"
+      }
+    ]
+  },
+  {
+    "courseDep": "Economics",
+    "courseNum": "152",
+    "courseName": "Public Economics:ExpenditureII",
+    "courseUnits": "4",
+    "sections": [
+      {
+        "instructionType": "LE",
+        "secID": "B00",
+        "day": "Th",
+        "fromTime": { "hour": 5, "minutes": 0, "ampm": "pm" },
+        "toTime": { "hour": 7, "minutes": 50, "ampm": "pm" },
+        "building": "CSB",
+        "room": "005",
+        "instructor": "Fadlon, Yizhak"
+      }
+    ]
+  },
+  {
+    "courseDep": "Economics",
+    "courseNum": "191B",
+    "courseName": "Senior Essay Seminar B",
+    "courseUnits": "4",
+    "sections": [
+      {
+        "instructionType": "SE",
+        "secID": "A00",
+        "day": "W",
+        "fromTime": { "hour": 5, "minutes": 0, "ampm": "pm" },
+        "toTime": { "hour": 7, "minutes": 50, "ampm": "pm" },
+        "building": "HSS",
+        "room": "2305B",
+        "instructor": "Cullen, Julie",
+        "seatsLeft": 13,
+        "waitlistcount": 0,
+        "capacity": 20
+      }
+    ]
+  },
+  {
+    "courseDep": "Economics",
+    "courseNum": "195",
+    "courseName": "Intro/Teaching Economics",
+    "courseUnits": "4",
+    "sections": []
+  },
+  {
+    "courseDep": "Economics",
+    "courseNum": "200A",
+    "courseName": "Microeconomics A",
+    "courseUnits": "4",
+    "sections": [
+      {
+        "instructionType": "LE",
+        "secID": "A00",
+        "day": "TuTh",
+        "fromTime": { "hour": 9, "minutes": 0, "ampm": "am" },
+        "toTime": { "hour": 10, "minutes": 50, "ampm": "am" },
+        "building": "SSB",
+        "room": "107",
+        "instructor": "Shishkin, Denis"
+      }
+    ]
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "courseDep": "Anthropology",
+    "courseNum": "100",
+    "courseName": "Spec Top/Socio-Cultural Anthro",
+    "courseUnits": "4",
+    "sections": [
+      {
+        "instructionType": "LE",
+        "secID": "A00",
+        "day": "MWF",
+        "fromTime": { "hour": 11, "minutes": 0, "ampm": "am" },
+        "toTime": { "hour": 11, "minutes": 50, "ampm": "am" },
+        "building": "CENTR",
+        "room": "207",
+        "instructor": "Yeh, Rihan Wen Xin"
+      }
+    ]
+  },
+  {
+    "courseDep": "Anthropology",
+    "courseNum": "121",
+    "courseName": "Psychological Anthropology",
+    "courseUnits": "4",
+    "sections": [
+      {
+        "instructionType": "LE",
+        "secID": "A00",
+        "day": "TuTh",
+        "fromTime": { "hour": 2, "minutes": 0, "ampm": "pm" },
+        "toTime": { "hour": 3, "minutes": 20, "ampm": "pm" },
+        "building": "RWAC",
+        "room": "0103",
+        "instructor": "Sloane, Julia Kathryn"
+      }
+    ]
+  },
+  {
+    "courseDep": "Anthropology",
+    "courseNum": "124",
+    "courseName": "Cultural Anthropology",
+    "courseUnits": "4",
+    "sections": [
+      {
+        "instructionType": "LE",
+        "secID": "A00",
+        "day": "TuTh",
+        "fromTime": { "hour": 6, "minutes": 30, "ampm": "pm" },
+        "toTime": { "hour": 7, "minutes": 50, "ampm": "pm" },
+        "building": "CENTR",
+        "room": "207",
+        "instructor": "Bialecki, Jon Anthony"
+      }
+    ]
+  },
+  {
+    "courseDep": "Anthropology",
+    "courseNum": "134",
+    "courseName": "Politics/Environmental Change",
+    "courseUnits": "4",
+    "sections": [
+      {
+        "instructionType": "LE",
+        "secID": "A00",
+        "day": "TuTh",
+        "fromTime": { "hour": 8, "minutes": 0, "ampm": "am" },
+        "toTime": { "hour": 9, "minutes": 20, "ampm": "am" },
+        "building": "SOLIS",
+        "room": "111",
+        "instructor": "Staff"
+      }
+    ]
+  },
+  {
+    "courseDep": "Anthropology",
+    "courseNum": "148",
+    "courseName": "Global Health&amp;Cultrl Diversity",
+    "courseUnits": "4",
+    "sections": [
+      {
+        "instructionType": "LE",
+        "secID": "A00",
+        "day": "TuTh",
+        "fromTime": { "hour": 11, "minutes": 0, "ampm": "am" },
+        "toTime": { "hour": 12, "minutes": 20, "ampm": "pm" },
+        "building": "LEDDN",
+        "room": "AUD",
+        "instructor": "Wilson, Brenda K"
+      }
+    ]
+  },
+  {
+    "courseDep": "Anthropology",
+    "courseNum": "164",
+    "courseName": "Intro to Medical Anthropology",
+    "courseUnits": "4",
+    "sections": [
+      {
+        "instructionType": "LE",
+        "secID": "A00",
+        "day": "TuTh",
+        "fromTime": { "hour": 12, "minutes": 30, "ampm": "pm" },
+        "toTime": { "hour": 1, "minutes": 50, "ampm": "pm" },
+        "building": "WLH",
+        "room": "2115",
+        "instructor": "Varma, Saiba"
+      }
+    ]
+  },
+  {
+    "courseDep": "Anthropology",
+    "courseNum": "169",
+    "courseName": "Culture &amp; Envr/Resrch Sem/Prac",
+    "courseUnits": "4",
+    "sections": [
+      {
+        "instructionType": "SE",
+        "secID": "A00",
+        "day": "TuTh",
+        "fromTime": { "hour": 11, "minutes": 0, "ampm": "am" },
+        "toTime": { "hour": 12, "minutes": 20, "ampm": "pm" },
+        "building": "YORK",
+        "room": "4050A",
+        "instructor": "Fortier, Jana",
+        "seatsLeft": 8,
+        "waitlistcount": 0,
+        "capacity": 25
+      }
+    ]
+  },
+  {
+    "courseDep": "Anthropology",
+    "courseNum": "190",
+    "courseName": "Yoga Practices",
+    "courseUnits": "4",
+    "sections": [
+      {
+        "instructionType": "LE",
+        "secID": "A00",
+        "day": "TuTh",
+        "fromTime": { "hour": 3, "minutes": 30, "ampm": "pm" },
+        "toTime": { "hour": 4, "minutes": 50, "ampm": "pm" },
+        "building": "FAH",
+        "room": "1101",
+        "instructor": "Jassal, Aftab"
+      }
+    ]
+  },
+  {
+    "courseDep": "Anthropology",
+    "courseNum": "193",
+    "courseName": "Capitalism and Nature",
+    "courseUnits": "4",
+    "sections": [
+      {
+        "instructionType": "LE",
+        "secID": "A00",
+        "day": "TuTh",
+        "fromTime": { "hour": 12, "minutes": 30, "ampm": "pm" },
+        "toTime": { "hour": 1, "minutes": 50, "ampm": "pm" },
+        "building": "PETER",
+        "room": "104",
+        "instructor": "Pedersen, David"
+      }
+    ]
+  }
+]
