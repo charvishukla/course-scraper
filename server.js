@@ -2,7 +2,7 @@ const express = require('express');
 const cors = require('cors');
 const { fetchCourses } = require('./firebase/fetchMajor'); // Import the fetchCourses function
 const app = express();
-const port = process.env.PORT || 3002;
+const port = process.env.PORT;
 require('dotenv').config();
 
 app.use(express.json());
