@@ -2,3 +2,4 @@ node_modules/
 firebase/tritonenroll-firebase-adminsdk-q4asq-06ab2ff14b.json
 package-lock.json
 package.json
+.env
