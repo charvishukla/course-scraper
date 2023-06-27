@@ -112,27 +112,27 @@ function parseSectionId(str) {
   }
 }
 
-populateDB("ECON");
 
 
-// async function getSubs(qtr) {
-//   try {
-//       const response = await axios.get(getSubjectUrl(qtr));
-//       const subjects = response.data;
 
-//       // You might want to loop through subjects using for..of and await populateDB
-//       for (const subject of subjects) {
-//           console.log(subject.code);
-//           await populateDB(subject.code);
-//       }
-//   } catch (error) {
-//       console.log(error);
-//   }
-// }
+async function getSubs(qtr) {
+  try {
+      const response = await axios.get(getSubjectUrl(qtr));
+      const subjects = response.data;
 
-// (async () => {
-//   await getSubs(QTR);
-// })();
+      // You might want to loop through subjects using for..of and await populateDB
+      for (const subject of subjects) {
+          console.log(subject.code);
+          await populateDB(subject.code);
+      }
+  } catch (error) {
+      console.log(error);
+  }
+}
+
+(async () => {
+  await getSubs(QTR);
+})();
 
 
 // ---------------------------------------------------------------------------
