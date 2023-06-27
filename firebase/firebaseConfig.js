@@ -1,6 +1,6 @@
 const admin = require('firebase-admin'); // Firebase Admin SDK
 //const serviceAccount = require('/Users/charvieshukla/Documents/GitHub/course-scraper/firebase/tritonenroll-firebase-adminsdk-q4asq-06ab2ff14b.json'); // service account key JSON file
-const serviceAccount = process.env.FIREBASE_SERVICE_ACCOUNT_KEY;
+const serviceAccount = JSON.parse(process.env.FIREBASE_SERVICE_ACCOUNT_KEY);
 admin.initializeApp({
     // Initialize the Firebase Admin SDK
   credential: admin.credential.cert(serviceAccount)
